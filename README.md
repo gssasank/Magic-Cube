@@ -4,7 +4,7 @@
 
 The generation of Magic Cubes is closely related to the generation of the Magic Squares as they are 3D variants of Magic Squares. The core concept for the generation of magic square via the Siamese method is that the next element should not be in the same row or column of the initial element (unless the position is already filled). This is the reason why we move one position diagonally on the board. 
 
-<img src="media/example-1.png" alt="example-1" style="zoom:80%;" />
+<center><img src="media/example-1.png" alt="example-1" style="zoom:80%;"  /> </center>
 
 
 
@@ -22,7 +22,7 @@ Move 6.  Fill the current cell with following number and keep iterating from Mov
 
 ## Properties of Magic cube of Order 3
 
-<img src="media/layers.png" alt="layers" style="zoom:67%;" />
+<center><img src="media/layers.png" alt="layers" style="zoom:67%;" /></center>
 
 The sum of the major diagonals, pillars, rows and columns should equal **n(n^3+1)/2** or in our case **42**.
 
