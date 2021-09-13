@@ -22,7 +22,7 @@ Move 6.  Fill the current cell with following number and keep iterating from Mov
 
 ## Properties of Magic cube of Order 3
 
-<img src="C:\Users\Sasank\AppData\Roaming\Typora\typora-user-images\image-20210909123005041.png" alt="image-20210909123005041" style="zoom:67%;" />
+<img src="media/layers.png" alt="layers" style="zoom:67%;" />
 
 The sum of the major diagonals, pillars, rows and columns should equal **n(n^3+1)/2** or in our case **42**.
 
