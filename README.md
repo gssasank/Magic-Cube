@@ -4,7 +4,7 @@
 
 The generation of Magic Cubes is closely related to the generation of the Magic Squares as they are 3D variants of Magic Squares. The core concept for the generation of magic square via the Siamese method is that the next element should not be in the same row or column of the initial element (unless the position is already filled). This is the reason why we move one position diagonally on the board. 
 
-<img src="C:\Users\Sasank\AppData\Roaming\Typora\typora-user-images\image-20210908225714817.png" alt="image-20210908225714817" style="zoom:80%;" />
+<img src="media/example-1" style="zoom:80%;" />
 
 
 
